@@ -1,4 +1,4 @@
-h1, h2{
+h1, h2 {
     font-family: 'Roboto Slab', serif;
 }
 
@@ -8,6 +8,10 @@ li {
 }
 
 a:hover { 
-    background-color: blue;
-    text-decoration: none;
-  }
+    background-color: red;
+    font-size: 2rem;
+}
+
+a {
+  text-decoration: none;
+}
